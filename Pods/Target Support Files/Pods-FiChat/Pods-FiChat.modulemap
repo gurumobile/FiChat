@@ -1,0 +1,6 @@
+framework module Pods_FiChat {
+  umbrella header "Pods-FiChat-umbrella.h"
+
+  export *
+  module * { export * }
+}

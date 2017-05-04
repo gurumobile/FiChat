@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1005942548305-r2llm0g4cdbs6eqgddst64k72uvbptad.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1005942548305-r2llm0g4cdbs6eqgddst64k72uvbptad</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALI-aVTsvcohj5TCksMai1bsQmX2oH6DE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1005942548305</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sambo.FiChat</string>
+	<key>PROJECT_ID</key>
+	<string>fichat-91837</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fichat-91837.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1005942548305:ios:4dc29b0a978d18bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://fichat-91837.firebaseio.com</string>
+</dict>
+</plist>
